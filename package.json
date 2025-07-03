@@ -99,7 +99,7 @@
     "remark-gfm": "^4.0.0",
     "remix-island": "^0.2.0",
     "remix-utils": "^7.7.0",
-    "shiki": "^1.24.0",
+    "shiki": "^3.7.0",
     "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {
