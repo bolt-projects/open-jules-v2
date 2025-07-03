@@ -88,7 +88,7 @@
     "jszip": "^3.10.1",
     "nanostores": "^0.10.3",
     "ollama-ai-provider": "^0.15.2",
-    "react": "^18.3.1",
+    "react": "^19.1.0",
     "react-dom": "^18.3.1",
     "react-hotkeys-hook": "^4.6.1",
     "react-markdown": "^9.0.1",
