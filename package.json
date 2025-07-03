@@ -33,7 +33,7 @@
     "@ai-sdk/anthropic": "^0.0.39",
     "@ai-sdk/cohere": "^1.0.3",
     "@ai-sdk/google": "^0.0.52",
-    "@ai-sdk/mistral": "^0.0.43",
+    "@ai-sdk/mistral": "^1.2.8",
     "@ai-sdk/openai": "^0.0.66",
     "@codemirror/autocomplete": "^6.18.3",
     "@codemirror/commands": "^6.7.1",
